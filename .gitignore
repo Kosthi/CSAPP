@@ -50,3 +50,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Mac OS
+.DS_Store
+
+# node.js
+package.json
+package-lock.json
+node_modules
